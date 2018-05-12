@@ -1,0 +1,26 @@
+_repo: Wireless-Transmission-of-PhotographsSecond-Edition-Revised-and-Enlarged-1919_34052
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Martin, Marcus J.
+    gutenberg_agent_id: '36709'
+    url: http://www.gutenberg.org/2009/agents/36709
+description: ''
+gutenberg_issued: '2010-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34052'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Phototelegraphy'
+- !lcc 'TK'
+title: 'Wireless Transmission of Photographs
+
+  Second Edition, Revised and Enlarged 1919'
+url: http://www.gutenberg.org/ebooks/34052
